@@ -1,7 +1,7 @@
 # Auto_projekat
 
-#Uvod
+# Uvod
 Tema projekta je punjac za akumulator
 
-##Potrebne periferije
+## Potrebne periferije
 Led bar , 7seg displej
